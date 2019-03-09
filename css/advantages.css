@@ -1,0 +1,12 @@
+.section-advantages {
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 13px 18px rgba(0, 0, 0, 0.4);
+          box-shadow: 0 13px 18px rgba(0, 0, 0, 0.4);
+}
+
+.section-advantages .advantages__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=advantages.css.map */

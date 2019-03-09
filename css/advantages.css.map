@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,CAAC;EAChB,gBAAgB,EAAE,OAAO;EACzB,UAAU,EAAE,CAAC,CAAC,IAAI,CAAC,IAAI,CAAC,kBAAkB;CAEpB;;AAJ1B,AAGI,mBAHe,CAGf,oBAAoB,CAAC;EACjB,OAAO,EAAE,IAAI;CAAG",
+    "sources": [
+        "../sass/blogs/advantages.sass"
+    ],
+    "names": [],
+    "file": "advantages.css"
+}

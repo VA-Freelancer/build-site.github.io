@@ -1,0 +1,20 @@
+@mixin FjallaOne {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+}
+@mixin OpenSansBold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+@mixin RalewayBold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+@mixin RalewayMedium {
+    font-family: 'Raleway', sans-serif;
+    font-weight: medium;
+}
+@mixin Raleway {
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+}
